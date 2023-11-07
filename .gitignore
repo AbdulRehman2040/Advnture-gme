@@ -1,0 +1,7 @@
+/node_modules
+/Advnture=gme
+
+/dist
+.vscode
+.idea
+.Ds_Store
